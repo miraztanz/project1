@@ -1,1 +1,1 @@
-# project1
+# This is clone project for educational purpose.
